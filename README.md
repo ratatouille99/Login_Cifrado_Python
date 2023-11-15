@@ -1,5 +1,5 @@
 # Login Cifrado Python
-La implementacion corresponde a la implementacion de una GUI de login de usuario simple utilizando algoritmos de cifrado en las contraseñas MD5 y SHA156.
+La implementacion corresponde a la implementacion de una GUI de login de usuario simple utilizando algoritmos de cifrado en las contraseñas MD5 y SHA256.
 
 # IMPORTANTE
 Para el correcto funcionamiento es necesario instalar los modulos descritos en el archivo de texto "requeriments"
