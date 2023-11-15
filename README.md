@@ -6,5 +6,6 @@ Para el correcto funcionamiento es necesario instalar los modulos descritos en e
 
 ### `pip install -r requirements.txt`
 
+# VISTA PREVIA DE LA INTERFAZ
 ![Interfaz](https://github.com/ratatouille99/Login_Cifrado_Python/blob/master/imagenes/2.png)
 
